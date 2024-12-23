@@ -5,6 +5,7 @@ a just a few small guidelines you need to follow.
 
 ## Contributor License Agreement
 
+
 Contributions to any Google project must be accompanied by a Contributor
 License Agreement. This is not a copyright **assignment**, it simply gives
 Google permission to use and redistribute your contributions as part of the
@@ -14,6 +15,7 @@ agreements on file or to sign a new one.
 You generally only need to submit a CLA once, so if you've already submitted one
 (even if it was for a different project), you probably don't need to do it
 again.
+
 
 
 ## Reporting issues
